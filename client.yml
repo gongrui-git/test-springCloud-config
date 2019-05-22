@@ -7,3 +7,7 @@ spring:
     name: clien
 server:
   port: 8178
+userinfo:
+  name: zhangda
+  sex: 0
+  age 14
